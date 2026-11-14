@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="400" viewBox="0 0 620 400" fill="none">
+  <title>Trading dashboard product illustration</title>
+  <rect x="25" y="25" width="570" height="350" rx="24" fill="#F4F8FD"/>
+  <rect x="79" y="61" width="462" height="277" rx="15" fill="white" stroke="#E0E8F0" stroke-width="3"/>
+  <path d="M79 111H541" stroke="#E5EBF2" stroke-width="2"/>
+  <circle cx="108" cy="86" r="6" fill="#E87F78"/><circle cx="128" cy="86" r="6" fill="#E9BD63"/><circle cx="148" cy="86" r="6" fill="#73B58D"/>
+  <rect x="104" y="136" width="111" height="74" rx="10" fill="#EDF5FE"/>
+  <path d="M122 188L146 168L164 178L195 151" stroke="#387ED1" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="230" y="136" width="128" height="74" rx="10" fill="#EFF7F1"/>
+  <path d="M250 184V164H269V184M281 184V151H300V184M312 184V144H331V184" fill="#75B78F"/>
+  <rect x="373" y="136" width="142" height="74" rx="10" fill="#FFF6E5"/>
+  <path d="M393 184H496" stroke="#E5C77F" stroke-width="7" stroke-linecap="round"/>
+  <path d="M108 240H512M108 267H512M108 294H512" stroke="#EEF1F5" stroke-width="2"/>
+  <path d="M123 253L176 245L225 260L278 238L331 247L384 224L435 233L493 217" stroke="#387ED1" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

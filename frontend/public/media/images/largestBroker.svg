@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="500" viewBox="0 0 720 500" fill="none">
+  <title>Investors and market growth illustration</title>
+  <rect x="47" y="42" width="626" height="416" rx="28" fill="#F5F8FC"/>
+  <rect x="100" y="86" width="520" height="320" rx="18" fill="white" stroke="#E5EAF0" stroke-width="2"/>
+  <rect x="135" y="119" width="194" height="15" rx="7.5" fill="#C7D4E3"/>
+  <rect x="135" y="149" width="125" height="10" rx="5" fill="#E2E8EF"/>
+  <rect x="135" y="210" width="105" height="146" rx="12" fill="#EFF5FC"/>
+  <circle cx="187" cy="253" r="26" fill="#DCEBFA"/>
+  <path d="M174 251L184 261L202 242" stroke="#387ED1" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="155" y="294" width="66" height="9" rx="4.5" fill="#AFC5DC"/>
+  <rect x="155" y="315" width="48" height="8" rx="4" fill="#D0DCE8"/>
+  <path d="M281 352V306H322V352M339 352V263H380V352M397 352V225H438V352M455 352V190H496V352" fill="#CFE2F7"/>
+  <path d="M281 352H521" stroke="#CAD5E1" stroke-width="3" stroke-linecap="round"/>
+  <path d="M290 286L351 250L408 265L474 180L518 199" stroke="#387ED1" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="474" cy="180" r="8" fill="white" stroke="#387ED1" stroke-width="5"/>
+  <circle cx="548" cy="127" r="24" fill="#FFF2D7"/>
+  <path d="M548 114V140M556 119C552 112 541 114 541 121C541 128 555 126 555 134C555 142 544 143 539 136" stroke="#D69B31" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="91" cy="394" r="24" fill="#E9F4EC"/>
+  <circle cx="91" cy="386" r="8" fill="#70B78C"/>
+  <path d="M75 412C78 399 104 399 107 412" fill="#70B78C"/>
+  <circle cx="636" cy="89" r="17" fill="#DDEBFA"/>
+  <path d="M629 89L634 94L643 84" stroke="#387ED1" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

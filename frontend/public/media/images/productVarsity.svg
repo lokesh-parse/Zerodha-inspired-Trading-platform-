@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="400" viewBox="0 0 620 400" fill="none">
+  <title>Market learning books illustration</title>
+  <rect x="25" y="25" width="570" height="350" rx="24" fill="#F4F8FD"/>
+  <path d="M116 111C173 90 230 101 290 130V299C230 271 173 261 116 282V111Z" fill="white" stroke="#DCE5EF" stroke-width="4"/>
+  <path d="M504 111C447 90 390 101 330 130V299C390 271 447 261 504 282V111Z" fill="white" stroke="#DCE5EF" stroke-width="4"/>
+  <path d="M310 121V305" stroke="#DCE5EF" stroke-width="4"/>
+  <path d="M148 153C187 143 223 151 261 168M148 184C187 174 223 182 261 199M148 215C187 205 223 213 261 230M359 168C397 151 433 143 472 153M359 199C397 182 433 174 472 184M359 230C397 213 433 205 472 215" stroke="#C5D4E3" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="466" cy="93" r="38" fill="#E9F4EC"/>
+  <path d="M446 97L460 83L471 91L488 73" stroke="#55A67A" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="230" viewBox="0 0 360 230" fill="none">
+  <title>Intraday trading price illustration</title>
+  <rect x="22" y="18" width="316" height="194" rx="22" fill="#F4F8FD"/>
+  <rect x="70" y="48" width="220" height="128" rx="14" fill="white" stroke="#DCE8F5" stroke-width="3"/>
+  <path d="M93 147H267" stroke="#E7EDF4" stroke-width="2"/>
+  <path d="M102 132L133 113L157 122L187 84L211 98L247 67" stroke="#387ED1" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="247" cy="67" r="7" fill="white" stroke="#387ED1" stroke-width="4"/>
+  <circle cx="267" cy="54" r="23" fill="#EAF6EF"/>
+  <path d="M267 42V66M274 47C270 40 259 42 259 48C259 55 272 53 272 60C272 67 263 68 258 62" stroke="#55A67A" stroke-width="3" stroke-linecap="round"/>
+  <path d="M115 192H245" stroke="#CEDAE7" stroke-width="8" stroke-linecap="round"/>
+</svg>

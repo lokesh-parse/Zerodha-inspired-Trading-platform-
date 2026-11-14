@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="520" viewBox="0 0 700 520" fill="none">
+  <title>Investment tools ecosystem illustration</title>
+  <rect x="55" y="40" width="590" height="440" rx="28" fill="#F5F8FC"/>
+  <rect x="118" y="80" width="464" height="298" rx="17" fill="white" stroke="#E2E8F0" stroke-width="2"/>
+  <path d="M118 133H582" stroke="#E7ECF2" stroke-width="2"/>
+  <circle cx="148" cy="106" r="6" fill="#E87F78"/>
+  <circle cx="168" cy="106" r="6" fill="#E9BD63"/>
+  <circle cx="188" cy="106" r="6" fill="#73B58D"/>
+  <rect x="150" y="159" width="112" height="91" rx="12" fill="#EAF3FD"/>
+  <path d="M173 222L193 200L211 208L239 180" stroke="#387ED1" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="239" cy="180" r="5" fill="#387ED1"/>
+  <rect x="282" y="159" width="112" height="91" rx="12" fill="#EFF7F1"/>
+  <circle cx="338" cy="195" r="20" stroke="#62A77B" stroke-width="8"/>
+  <path d="M338 175A20 20 0 0 1 356 204" stroke="#C5E2CF" stroke-width="8"/>
+  <rect x="414" y="159" width="136" height="91" rx="12" fill="#FFF6E5"/>
+  <path d="M438 222V201H454V222M465 222V188H481V222M492 222V177H508V222" fill="#E8BD69"/>
+  <rect x="150" y="272" width="400" height="77" rx="12" fill="#F8FAFC"/>
+  <circle cx="183" cy="310" r="18" fill="#DDEBFA"/>
+  <path d="M175 310L181 316L192 303" stroke="#387ED1" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="216" y="294" width="125" height="9" rx="4.5" fill="#B8C7D7"/>
+  <rect x="216" y="313" width="186" height="7" rx="3.5" fill="#D8E1EB"/>
+  <rect x="450" y="300" width="71" height="22" rx="11" fill="#EAF6EF"/>
+  <path d="M464 311H507" stroke="#55A67A" stroke-width="5" stroke-linecap="round"/>
+  <path d="M196 407H504" stroke="#DDE5EE" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="227" cy="407" r="18" fill="#387ED1"/>
+  <circle cx="350" cy="407" r="18" fill="#62A77B"/>
+  <circle cx="473" cy="407" r="18" fill="#E4AD4F"/>
+  <path d="M227 425V449M350 425V449M473 425V449" stroke="#C7D4E1" stroke-width="3" stroke-dasharray="5 6"/>
+</svg>

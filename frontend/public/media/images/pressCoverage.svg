@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="190" viewBox="0 0 720 190" fill="none">
+  <title>Newspaper coverage illustration</title>
+  <rect x="18" y="22" width="684" height="146" rx="18" fill="#F7F9FC"/>
+  <g transform="rotate(-4 195 95)">
+    <rect x="68" y="47" width="230" height="101" rx="7" fill="white" stroke="#DDE4EC" stroke-width="2"/>
+    <rect x="84" y="62" width="136" height="9" rx="4.5" fill="#387ED1"/>
+    <rect x="84" y="82" width="185" height="6" rx="3" fill="#CAD4E0"/>
+    <rect x="84" y="96" width="164" height="6" rx="3" fill="#D9E1EA"/>
+    <rect x="84" y="114" width="72" height="22" rx="4" fill="#E7F0FA"/>
+    <path d="M166 135L184 119L198 126L216 105L236 116L260 94" stroke="#55A67A" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g transform="rotate(3 463 95)">
+    <rect x="392" y="47" width="230" height="101" rx="7" fill="white" stroke="#DDE4EC" stroke-width="2"/>
+    <rect x="408" y="62" width="113" height="9" rx="4.5" fill="#E9AE4A"/>
+    <rect x="408" y="82" width="185" height="6" rx="3" fill="#CAD4E0"/>
+    <rect x="408" y="96" width="156" height="6" rx="3" fill="#D9E1EA"/>
+    <circle cx="439" cy="123" r="13" fill="#E7F0FA"/>
+    <path d="M439 116V130M446 120C443 115 434 117 434 122C434 127 444 126 444 131C444 136 437 136 433 132" stroke="#387ED1" stroke-width="2.5" stroke-linecap="round"/>
+    <rect x="461" y="116" width="128" height="6" rx="3" fill="#D9E1EA"/>
+    <rect x="461" y="130" width="104" height="6" rx="3" fill="#D9E1EA"/>
+  </g>
+</svg>

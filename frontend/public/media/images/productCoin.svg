@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="400" viewBox="0 0 620 400" fill="none">
+  <title>Mutual fund investment illustration</title>
+  <rect x="25" y="25" width="570" height="350" rx="24" fill="#F4F8FD"/>
+  <circle cx="306" cy="184" r="111" fill="white" stroke="#E0E8F0" stroke-width="3"/>
+  <circle cx="306" cy="184" r="79" fill="#EDF5FE"/>
+  <path d="M306 129V239M339 151C328 127 278 131 278 160C278 188 334 178 334 210C334 241 291 246 268 222" stroke="#387ED1" stroke-width="11" stroke-linecap="round"/>
+  <circle cx="470" cy="102" r="29" fill="#E9F4EC"/>
+  <path d="M457 103L466 112L484 92" stroke="#55A67A" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M121 293H238M374 293H491" stroke="#D3DEE9" stroke-width="10" stroke-linecap="round"/>
+</svg>

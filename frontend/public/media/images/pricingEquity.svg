@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="230" viewBox="0 0 360 230" fill="none">
+  <title>Equity delivery with zero brokerage illustration</title>
+  <rect x="22" y="18" width="316" height="194" rx="22" fill="#F4F8FD"/>
+  <circle cx="180" cy="105" r="67" fill="white" stroke="#DCE8F5" stroke-width="3"/>
+  <path d="M180 55V155M211 76C202 60 171 62 169 81C167 99 205 94 205 115C205 137 174 143 159 126" stroke="#387ED1" stroke-width="9" stroke-linecap="round"/>
+  <circle cx="283" cy="58" r="19" fill="#E8F4EC"/>
+  <path d="M275 58L281 64L292 51" stroke="#55A67A" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M80 176H137M223 176H280" stroke="#D1DDE9" stroke-width="8" stroke-linecap="round"/>
+</svg>

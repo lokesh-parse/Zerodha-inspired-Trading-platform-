@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="500" viewBox="0 0 700 500" fill="none">
+  <title>Open book and market learning illustration</title>
+  <rect x="55" y="45" width="590" height="410" rx="28" fill="#F5F8FC"/>
+  <path d="M134 156C208 128 283 143 350 181V355C281 318 207 304 134 332V156Z" fill="white" stroke="#DDE6EF" stroke-width="3"/>
+  <path d="M566 156C492 128 417 143 350 181V355C419 318 493 304 566 332V156Z" fill="white" stroke="#DDE6EF" stroke-width="3"/>
+  <path d="M350 181V355" stroke="#DDE6EF" stroke-width="3"/>
+  <path d="M170 193C218 178 264 188 309 207M170 224C220 208 266 219 309 239M170 255C219 240 263 250 309 270M170 286C213 272 259 281 309 302" stroke="#C8D5E3" stroke-width="7" stroke-linecap="round"/>
+  <path d="M391 207C435 188 481 178 530 193M391 239C434 219 480 208 530 224M391 270C437 250 481 240 530 255M391 302C441 281 487 272 530 286" stroke="#C8D5E3" stroke-width="7" stroke-linecap="round"/>
+  <circle cx="482" cy="107" r="46" fill="#E7F1FC"/>
+  <path d="M462 110L476 96L488 103L505 84" stroke="#387ED1" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="505" cy="84" r="5" fill="#387ED1"/>
+  <rect x="278" y="374" width="144" height="36" rx="18" fill="#E9F4EC"/>
+  <path d="M302 392H398" stroke="#62A77B" stroke-width="7" stroke-linecap="round"/>
+  <path d="M93 364L114 344L131 356" stroke="#E7B254" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
